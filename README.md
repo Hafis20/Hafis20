@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hafis V H!<br>A passionate Full Stack Developer specializing in JavaScript, Angular, NestJS, and TypeScript. Currently enhancing my skills at QBH Solutions as a software engineer.<br><br>I enjoy exploring new technologies and taking on challenging projects that help me grow as a developer. Check out my repositories to see what I’ve been working on!<br><br>Connect with me on LinkedIn
+Hi, I'm Hafis V H!<br>A passionate Full Stack Developer specializing in JavaScript, Angular, NestJS, and TypeScript.<br><br>I enjoy exploring new technologies and taking on challenging projects that help me grow as a developer. Check out my repositories to see what I’ve been working on!<br><br>Connect with me on LinkedIn
 
 
 ## 🌐 Socials:
